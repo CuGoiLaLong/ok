@@ -1,0 +1,6 @@
+{
+  "name": "PhyLab Pro - Phòng Thí Nghiệm Vật Lý Ảo",
+  "description": "Nền tảng mô phỏng thí nghiệm vật lý và lý sinh tương tác cao cấp với trợ lý AI phân tích và chế độ suy luận chuyên sâu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
